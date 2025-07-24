@@ -4,7 +4,7 @@ return [
     'slider_title' => 'Revolusi Kinerja dengan Teknologi Labtek',
     'slider_desc' => 'Labtek menghadirkan inovasi untuk meningkatkan Producttivitas dan efisiensi Anda. Temukan solusi yang dirancang khusus untuk memberikan hasil maksimal dengan teknologi terbaru yang memadukan keunggulan kualitas, kecepatan, dan nilai tambah yang tak tertandingi.',
     'shop_now' => 'BELANJA SEKARANG',
-    'shop' => 'BELANJA',
+    'shop' => 'Belanja',
     'bisa_nego' => 'Bisa Nego',
     'Product_terlaris' => 'Product Terlaris !!',
     'Product_terbaru' => 'Product Terbaru !!',
@@ -23,6 +23,13 @@ return [
     'newest' => 'Terbaru',
     'oldest' => 'Terlama',
     'Product_ditemukan' => 'Product Ditemukan',
+    'every_order' => 'Setiap Pesanan',
+    'quality_assurance' => 'Jaminan Kualitas',
+    'quality_assurance_description' => 'Product dijamin 100% berkualitas',
+    '24/7_support' => 'Dukungan 24/7',
+    'dedicated_customer_service' => 'Layanan pelanggan khusus',
+    'secure_payment' => 'Pembayaran Aman',
+    'secure_payment_description' => 'Transaksi 100% aman',
 
     //header
     'login' => 'Masuk',
@@ -34,6 +41,7 @@ return [
     'language' => 'Bahasa',
     'settings' => 'Pengaturan',
     'purchase' => 'Pembelian Saya',
+    'cart' => 'Keranjang',
 
 
 
@@ -51,6 +59,7 @@ return [
     'contact_us' => 'Hubungi Kami',
     'created_by' => 'Dibuat oleh',
     'qna' => 'FAQ',
+    'orders' => 'Pesanan',
 
     //cart
     'product' => 'Product',
@@ -88,6 +97,28 @@ return [
     'other_products' => 'Product Lainnya',
     'negotiable' => 'Nego',
     'tidak_ada_Product' => 'Tidak Ada Product Ditemukan',
+    'reviews' => 'Ulasan',
+    'stock_available' => 'Stok Tersedia',
+    'brand' => 'Merek',
+    'no_reviews_yet' => 'Belum ada ulasan',
+    'fast_delivery' => 'Pengiriman Cepat',
+    'authentic_product' => 'Product Asli',
+    'customer_service' => 'Layanan Pelanggan',
+    'be_first_to_review' => 'Jadilah yang pertama mengulas Product ini',
+    'must_purchase' => 'Anda harus melakukan pembelian terlebih dahulu untuk mengulas Product ini.',
+    'leave_review' => 'Tinggalkan Ulasan',
+    'customer_reviews' => 'Ulasan Pelanggan',
+    'add_to_cart' => 'Tambahkan ke Keranjang',
+    'big_sale' => 'Diskon Besar!',
+    'limited_time_offer' => 'Penawaran Terbatas! Jangan lewatkan kesempatan emas ini!',
+    'seconds' => 'Detik',
+    'minutes' => 'Menit',
+    'hours' => 'Jam',
+    'days' => 'Hari',
+    'limited_time_offer2' => 'Penawaran Terbatas!',
+    'offer_ends_in' => 'Penawaran Berakhir Dalam',
+    'hurry_up_and_get_your_dream_product_before_its_too_late' => 'Segera dapatkan produk impian Anda sebelum terlambat!',
+    'koleksi' => 'Koleksi produk berkualitas tinggi dengan harga terbaik yang tidak akan Anda temukan di tempat lain',
 
     //Purchase
     'all' => 'Semua',
@@ -129,6 +160,10 @@ return [
     'or_you_can_contact_admin' => 'Jika Anda membutuhkan bantuan lebih lanjut, silakan hubungi admin melalui fitur chat di samping ini 👉 ',
     'here' => 'di sini',
     'subtotal_before_negotiation' => 'Subtotal Sebelum Negosiasi',
+    'confirm_new_password' => 'Konfirmasi Password Baru',
+    'filter_options' => 'Opsi Filter',
+    'active_filters' => 'Filter Aktif',
+    'clear_all_filters' => 'Hapus Semua Filter',
 
 
     //Pengaturan

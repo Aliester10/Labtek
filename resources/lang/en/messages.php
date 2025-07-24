@@ -24,6 +24,13 @@ return [
     'oldest' => 'Oldest',
     'Product_ditemukan' => 'Products Found',
     'review' => 'Review',
+    'every_order' => 'Every Order',
+    'quality_assurance' => 'Quality Assurance',
+    'quality_assurance_description' => '100% guaranteed products',
+    '24/7_support' => '24/7 Support',
+    'dedicated_customer_service' => 'Dedicated customer service',
+    'secure_payment' => 'Secure Payment',
+    'secure_payment_description' => '100% secure transaction',
 
     //header
     'login' => 'Login',
@@ -36,6 +43,7 @@ return [
     'language' => 'language',
     'settings' => 'settings',
     'purchase' => 'My purchases',
+    'cart' => 'Cart',
 
 
 
@@ -54,6 +62,7 @@ return [
     'contact_us' => 'Contact Us',
     'created_by' => 'Created by',
     'qna' => 'FAQ',
+    'orders' => 'Orders',
 
 
     //cart
@@ -92,6 +101,29 @@ return [
     'other_products' => 'Other Products',
     'negotiable' => 'Negotiable',
     'tidak_ada_Product' => 'No Products Found',
+    'reviews' => 'Reviews',
+    'stock_available' => 'Stock Available',
+    'brand' => 'Brand',
+    'no_reviews_yet' => 'No reviews yet',
+    'fast_delivery' => 'Fast Delivery',
+    'authentic_product' => 'Authentic Product',
+    'customer_service' => 'Customer Service',
+    'be_first_to_review' => 'Be the first to review this product',
+    'must_purchase' => 'You must make a purchase first to review this product.',
+    'leave_review' => 'Leave a Review',
+    'write_your_review' => 'Write your review here',
+    'add_to_cart' => 'Add to Cart',
+    'big_sale' => 'Big Sale!',
+    'limited_time_offer' => 'Limited Time Offer! Don\'t miss this golden opportunity!',
+    'seconds' => 'Seconds',
+    'minutes' => 'Minutes',
+    'hours' => 'Hours',
+    'days' => 'Days',
+    'limited_time_offer2' => 'Limited Time Offer!',
+    'offer_ends_in' => 'Offer Ends In',
+    'hurry_up_and_get_your_dream_product_before_its_too_late' => 'Hurry up and get your dream product before it\'s too late!',
+    'koleksi' => 'Collection of high-quality products at the best prices you won\'t find anywhere else',
+
 
     //purchase
     'all' => 'All',
@@ -134,10 +166,9 @@ return [
     'here' => 'here',
     'subtotal_before_negotiation' => 'Subtotal Before Negotiation',
     'confirm_new_password' => 'Confirm New Password',
-
-
-
-
+    'filter_options' => 'Filter Options',
+    'active_filters' => 'Active Filters',
+    'clear_all_filters' => 'Clear All Filters',
 
     // Pengaturan
     'personal_profile' => 'Personal Profile',
@@ -181,7 +212,6 @@ return [
     'add_new_address' => 'Add New Address',
     'user_photo' => 'User Photo',
 
-
     //login
     'already_verified' => 'Already Verified',
     'discover_technology' => 'Discover the latest technology on our platform.',
@@ -212,16 +242,15 @@ return [
     'price_lowest' => 'Price Lowest',
     'price_highest' => 'Price Highest',
 
-        'price_range' => 'Price Range',
-        'min_price' => 'Minimum Price',
-        'max_price' => 'Maximum Price',
-        'apply_filter' => 'Apply Filter',
-        'refresh' => 'Refresh',
+    'price_range' => 'Price Range',
+    'min_price' => 'Minimum Price',
+    'max_price' => 'Maximum Price',
+    'apply_filter' => 'Apply Filter',
+    'refresh' => 'Refresh',
 
     'favorites_empty' => 'You don\'t have any favorite yet.',
     'view_details' => 'View Detail',
     'removed_from_favorites' => 'Deleted From Favorites',
-
 
     'waiting_approval' => 'Waiting for Approval',
     'approved' => 'Approved',
@@ -242,6 +271,8 @@ return [
 
     'complete_address_data' => 'Complete your address information',
     'fill_address_data' => 'Fill in Address Data',
-
-
+    
+    // Added keys from translations_cart.php that were missing
+    'cancelled_by_admin' => 'Canceled by Admin',
+    'cancelled_by_system' => 'Canceled by System',
 ];
